@@ -65,7 +65,7 @@ class _NavigationDrawerState extends State<NavigationDrawer> {
               children: <Widget>[
                 Icon(
                   list[index].icon,
-                  size: 20,
+                  size: 18,
                 ),
                 Padding(
                   padding: EdgeInsets.only(left: 8.0),
